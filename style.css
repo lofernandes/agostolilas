@@ -1,0 +1,17 @@
+body {font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f5ff; color:#2b2240;}
+header {background:#8a5dbb; color:#fff; text-align:center; padding:40px 20px;}
+header h1 {margin:0; font-size:2rem;}
+header p {max-width:700px; margin:10px auto;}
+nav {background:#fff; text-align:center; border-bottom:1px solid #ddd;}
+nav a {display:inline-block; padding:10px 15px; color:#6a4c93; text-decoration:none; font-weight:bold;}
+nav a:hover {background:#ecd9ff; border-radius:8px;}
+section {max-width:900px; margin:40px auto; padding:0 20px;}
+section h2 {color:#6a4c93; margin-bottom:10px;}
+.card {background:#fff; padding:15px; margin:10px 0; border-radius:10px; border:1px solid #e5ddf5;}
+figure img {width: 40%; border-radius:10px;}
+footer {background:#fff; text-align:center; padding:20px; border-top:1px solid #ddd; font-size:.9rem;}
+
+.centralizado {
+   text-align: center;
+}
+
